@@ -1,0 +1,14 @@
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\bin\Debug\u1_OrnekInsanOzellikleri.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\bin\Debug\u1_OrnekInsanOzellikleri.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\bin\Debug\u1_OrnekInsanOzellikleri.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\bin\Debug\FakeData.dll
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\bin\Debug\FakeData.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\obj\Debug\u1_OrnekInsanOzellikleri.csprojResolveAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\obj\Debug\u1_OrnekInsanOzellikleri.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\obj\Debug\u1_OrnekInsanOzellikleri.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\obj\Debug\u1_OrnekInsanOzellikleri.csproj.GenerateResource.Cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\obj\Debug\u1_OrnekInsanOzellikleri.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\obj\Debug\u1_OrnekInsanOzellikleri.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta7\Kurs_7Ocak2019\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\bin\Debug\u1_OrnekInsanOzellikleri.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta7\Kurs_7Ocak2019\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\obj\Debug\u1_OrnekInsanOzellikleri.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta7\Kurs_7Ocak2019\u1_OrnekInsanOzellikleri\u1_OrnekInsanOzellikleri\obj\Debug\u1_OrnekInsanOzellikleri.pdb
